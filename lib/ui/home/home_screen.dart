@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:islami_c10_friday/ui/home/hadeth_tab/hadet_tab.dart';
+import 'package:islami_c10_friday/ui/home/hadeth_tab/hadeth_tab.dart';
 import 'package:islami_c10_friday/ui/home/quran_tab/quran_tab.dart';
 import 'package:islami_c10_friday/ui/home/radio_tab/radio_tab.dart';
 import 'package:islami_c10_friday/ui/home/tasbeeh_tab/tasbeh_tab.dart';
